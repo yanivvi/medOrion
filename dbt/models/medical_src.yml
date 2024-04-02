@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: raw_data
+    database: coding-exercises-418913
+
+    tables:
+      - name: members_care_status
+      - name: members
